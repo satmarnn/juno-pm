@@ -4,18 +4,23 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+https://juno-insight-guardian.lovable.app
 
 _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+Get a weekly Insight and Risk report
+Ambiguous records are excluded
+Paste or upload source data
+Contract, legal & regulator items are handed off to Human PM
+Click Run analysis, then use Export .xlsx to download an Excel file with two sheets: an Insight Report and a Risk Report.
+
 
 _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** Try Run analysis, then Export .xlsx. The file should have an Insight Report sheet and a Risk Report sheet
+- **What broke / felt like a toy:** The Approve report and Request changes buttons.
+- **What I'd change next pass:** Instead of manually uploading .txt/.csv file, automatic integration with Slack, tickets tool, customer reporting data.
